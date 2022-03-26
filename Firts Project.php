@@ -11,6 +11,11 @@
     <div class="container text-center">
         <h1>Boostrap5</h1>
     </div>
-  <script src="js/boostrap.min.js"></script>
+    <script>
+        var num1 = 12
+        var num1 = 12
+        var resultado = num1 + num2 
+    </script>
+  <script src="js/boostrap.min.js"> </script>
 </body>
 </html>
